@@ -1,2 +1,2 @@
 #This is an experimental website.
-{Jim Browning}(https://www.youtube.com/c/JimBrowning/videos)
+[Jim Browning](https://www.youtube.com/c/JimBrowning/videos)
